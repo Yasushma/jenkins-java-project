@@ -33,12 +33,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.126.40.25:8080/repository/maven-snapshots/</url>
+		    <url>http://13.126.40.25:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.126.40.25:8080/repository/maven-releases/</url>
+		    <url>http://13.126.40.25:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
